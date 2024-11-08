@@ -1,3 +1,3 @@
 # my-repository
 
-Ceci est mon projet vinted réalisé au Réacteur
+Ceci est mon projet vinted réalisé au Réacteur côté Serveur
